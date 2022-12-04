@@ -74,7 +74,7 @@ def worker(start_date=start_date,end_date=end_date,event_name=event_name):
             offset = 0
             totalrow = 1
             limit = 100000
-            x = 0
+            x = 1
 
             date = obj_start_date.strftime("%Y-%m-%d")
 
