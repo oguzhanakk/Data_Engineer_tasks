@@ -118,7 +118,6 @@ def worker(start_date=start_date,end_date=end_date,event_name=event_name):
 
                 #print(len(all_data)) toplam datayı gormek icin
 
-
             obj_start_date += timedelta(days=1)
 
 def main():
