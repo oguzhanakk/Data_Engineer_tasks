@@ -11,7 +11,7 @@ for i in range(0,len(df[df.columns[8]])):
     youtube_links.append(df[df.columns[8]][i])
 
 channel_name = []
-a = 0
+a = 1
 for i in range(0,len(youtube_links)):
     try:
         url_input = youtube_links[i]
