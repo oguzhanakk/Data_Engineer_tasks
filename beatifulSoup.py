@@ -31,4 +31,3 @@ for i in range(0,len(youtube_links)):
     df[df.columns[9]][i] = channel_name[i]
 
 df.to_excel("sonuc.xlsx")
-
