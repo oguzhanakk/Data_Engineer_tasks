@@ -2,11 +2,7 @@
 We have close to 1600 youtube channel links and we want to put the channel names next to them. The code that does this.
 
 # Requirements
-To run this project, you will need to have the following software requirements:
-
-• bs4
-• urllib.request
-• pandas
+• You can see it in the requirements.txt inside the project.
 
 # Setup
 To run this project on your own computer, follow these steps:

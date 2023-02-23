@@ -3,13 +3,7 @@
 The repository that contains the code for us to get the data from ga4-analytics and suppress the requested data.
 
 # Requirements
-To run this project, you will need to have the following software requirements:
-
-• os
-• csv
-• load_dotenv
-• httplib2
-• data_v1beta
+• You can see it in the requirements.txt inside the project.
 
 # Setup
 To run this project on your own computer, follow these steps:

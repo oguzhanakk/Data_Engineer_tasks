@@ -1,15 +1,9 @@
-# Pandas Project
+# Data Project
 
 repository containing pandas projects that I made different from each other.
 
 # Requirements
-To run this project, you will need to have the following software requirements:
-
-• pandas
-• numpy
-• time
-• pypyodbc
-
+• You can see it in the requirements.txt inside the project.
 # Setup
 To run this project on your own computer, follow these steps:
 
